@@ -84,13 +84,30 @@ whatIDontLike(true);
 
 // Question 6
 
-var arr = [0, 1, 4, 9, 16];
-function find(arr, value) {
-    
-}
+//var arr = [0, 1, 4, 9, 16];
+//function find(arr, value) {}
 
 
 
 
 
 // Question 7
+
+var toys = [
+    {
+     name: "Lego",
+     price: 15.6,
+    },
+    {
+     name: "Master of the Universe",
+     price: "28.3",
+    },
+    {
+     name: "Barbie",
+     price: null,
+    },
+    {
+     name: "Mr Potato Head",
+     price: 89.99,
+    },
+   ];
